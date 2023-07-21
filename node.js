@@ -7,4 +7,4 @@ http.createServer(function (req, res) {
    res.end('Hello, World from nodejs')
 
 }).listen(port, laddr);
-console.log('Server running at http://' + laddr + ':' + port + '/');
+console.log('Server running at http://' + laddr + ':' + port + '/');.
